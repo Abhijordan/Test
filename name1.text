@@ -1,0 +1,68 @@
+
+
+User@DESKTOP-RVEMITH MINGW64 ~
+$
+
+User@DESKTOP-RVEMITH MINGW64 ~
+$ cd D:
+
+User@DESKTOP-RVEMITH MINGW64 /d
+$ dir
+$RECYCLE.BIN  Frontend\ technologies  System\ Volume\ Information
+
+User@DESKTOP-RVEMITH MINGW64 /d
+$ cd ^[[200~D:\Frontend technologies\GIT~
+bash: cd: too many arguments
+
+User@DESKTOP-RVEMITH MINGW64 /d
+$ cd D:\Frontend technologies\GIT
+bash: cd: too many arguments
+
+User@DESKTOP-RVEMITH MINGW64 /d
+$ cd GIT\
+> ^C
+
+User@DESKTOP-RVEMITH MINGW64 /d
+$ cd D:
+
+User@DESKTOP-RVEMITH MINGW64 /d
+$ cd Frontend\ technologies/
+
+User@DESKTOP-RVEMITH MINGW64 /d/Frontend technologies
+$ cd GIT/
+
+User@DESKTOP-RVEMITH MINGW64 /d/Frontend technologies/GIT (master)
+$ ls
+
+User@DESKTOP-RVEMITH MINGW64 /d/Frontend technologies/GIT (master)
+$ touch name.doc
+
+User@DESKTOP-RVEMITH MINGW64 /d/Frontend technologies/GIT (master)
+$ ^C
+
+User@DESKTOP-RVEMITH MINGW64 /d/Frontend technologies/GIT (master)
+$ touch name.mp3
+
+User@DESKTOP-RVEMITH MINGW64 /d/Frontend technologies/GIT (master)
+$ touch name.mp4
+
+User@DESKTOP-RVEMITH MINGW64 /d/Frontend technologies/GIT (master)
+$ rm -rf name.mp4
+
+User@DESKTOP-RVEMITH MINGW64 /d/Frontend technologies/GIT (master)
+$ vi name.doc
+
+User@DESKTOP-RVEMITH MINGW64 /d/Frontend technologies/GIT (master)
+$ rm -rf name.mp3
+
+User@DESKTOP-RVEMITH MINGW64 /d/Frontend technologies/GIT (master)
+$ touch name.text
+
+User@DESKTOP-RVEMITH MINGW64 /d/Frontend technologies/GIT (master)
+$ vi name.text
+
+User@DESKTOP-RVEMITH MINGW64 /d/Frontend technologies/GIT (master)
+$ vi name.text
+
+User@DESKTOP-RVEMITH MINGW64 /d/Frontend technologies/GIT (master)
+$
